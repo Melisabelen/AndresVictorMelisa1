@@ -1,9 +1,10 @@
-Pikachu 3 holamatrix Melisa pikachu es amarillo
+Pikachu 3 holamatrix Melisa pikachu dsadsdaasda  es amarillo
 Saludos de Pikachu - Victor
 Pikachu 3
 saltando
 la
 cuerda
+<<<<<<< HEAD
 
 linea 8 si si 
 
@@ -14,7 +15,17 @@ linea 8 si si
 
 
 
-pikachu es amarillo -- Andres
 =======
+s
+d
+d
+f
+g
+g
+h
+Melisa para ti
+f
+d
+>>>>>>> 00fd7f3d67f3254638396bd464d464c5bc0f0ac3
+pikachu es amarillo -- Andres
 
->>>>>>> df3414005dcb0861efd7832eb8f88df9c478fee2
