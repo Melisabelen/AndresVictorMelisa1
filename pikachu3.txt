@@ -1,3 +1,5 @@
+Pikachu 3 holamatrix Melisa pikachu es amarillo
+Saludos de Pikachu - Victor
 Pikachu 3
 saltando
 la
@@ -13,3 +15,6 @@ cuerda
 
 
 pikachu es amarillo -- Andres
+=======
+
+>>>>>>> df3414005dcb0861efd7832eb8f88df9c478fee2
